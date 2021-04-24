@@ -22,6 +22,8 @@ class Drawer1 extends StatelessWidget {
         child: Column(
       children: [
         Container(
+
+          color: Colors.white70,
           height: 120,
           width: double.infinity,
           padding: EdgeInsets.all(21),
